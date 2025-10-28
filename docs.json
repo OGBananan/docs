@@ -62,11 +62,18 @@
               "api-reference/endpoint/digilocker-sdk/create-session",
               "api-reference/endpoint/digilocker-sdk/session-status",
               "api-reference/endpoint/digilocker-sdk/get-document",    {
-            "group": "Digilocker SDK",
+            "group": "Digilocker SDK2",
+            "pages": [
+              "api-reference/endpoint/digilocker-sdk/create-session",
+              "api-reference/endpoint/digilocker-sdk/session-status",
+              "api-reference/endpoint/digilocker-sdk/get-document",    {
+            "group": "Digilocker SDK3",
             "pages": [
               "api-reference/endpoint/digilocker-sdk/create-session",
               "api-reference/endpoint/digilocker-sdk/session-status",
               "api-reference/endpoint/digilocker-sdk/get-document"
+            ]
+          }
             ]
           }
             ]
