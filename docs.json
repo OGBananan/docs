@@ -63,6 +63,14 @@
               "api-reference/endpoint/digilocker-sdk/session-status",
               "api-reference/endpoint/digilocker-sdk/get-document"
             ]
+          },
+          {
+            "group":"Endpoint Example",
+            "pages":[
+              "api-reference/endpoint/create",
+              "api-reference/endpoint/delete",
+              "api-reference/endpoint/get"
+            ]
           }
         ]
       }
