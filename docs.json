@@ -65,8 +65,8 @@
             ]
           },
           {
-            "group":"Endpoint Example",
-            "pages":[
+            "group": "Endpoint Example",
+            "pages": [
               "api-reference/endpoint/create",
               "api-reference/endpoint/delete",
               "api-reference/endpoint/get"
@@ -75,9 +75,18 @@
         ]
       }
     ],
-    "api":{
-      "mdx":{
-        "server":"https://api.sandbox.co.in"
+    "api": {
+      "playground": {
+        "display": "interactive"
+      },
+      "examples": {
+        "languages": [
+          "curl",
+          "python",
+          "javascript"
+        ],
+        "defaults": "required",
+        "prefill": true
       }
     },
     "global": {
@@ -114,15 +123,15 @@
   },
   "contextual": {
     "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
   },
   "footer": {
     "socials": {
