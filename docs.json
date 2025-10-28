@@ -75,6 +75,11 @@
         ]
       }
     ],
+    "api":{
+      "mdx":{
+        "server":"https://api.sandbox.co.in"
+      }
+    },
     "global": {
       "anchors": [
         {
