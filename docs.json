@@ -57,12 +57,11 @@
             ]
           },
           {
-            "group": "Endpoint examples",
+            "group": "Digilocker SDK",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "api-reference/endpoint/digilocker-sdk/create-session",
+              "api-reference/endpoint/digilocker-sdk/session-status",
+              "api-reference/endpoint/digilocker-sdk/get-document"
             ]
           }
         ]
